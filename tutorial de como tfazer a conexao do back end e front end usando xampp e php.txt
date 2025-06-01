@@ -1,0 +1,6 @@
+Tuturial de como fiz a conexão do front end e back end usando Xampp:
+1-Extrair e mover a pasta eventos academicos: 
+2- mandar na pasta xampp/htdocs
+3-no navegador entrar localhost daí clica em phpmyadmin e seleciona importar e escolhe a bd e já está!! 
+4 -entrar em localhost/eventos academicos 
+Depois é só executar pra testar o site
